@@ -1,0 +1,17 @@
+06-21 20:35:46 HalfCheetah_q3_horizon10 INFO     Gathering random dataset
+06-21 20:35:46 HalfCheetah_q3_horizon10 INFO     Creating policy
+06-21 20:35:50 HalfCheetah_q3_horizon10 INFO     Iteration -1
+06-21 20:35:50 HalfCheetah_q3_horizon10 INFO     ---------  ---------
+06-21 20:35:50 HalfCheetah_q3_horizon10 INFO     Itr          -1
+06-21 20:35:50 HalfCheetah_q3_horizon10 INFO     ReturnAvg  -143.181
+06-21 20:35:50 HalfCheetah_q3_horizon10 INFO     ReturnMax  -104.045
+06-21 20:35:50 HalfCheetah_q3_horizon10 INFO     ReturnMin  -176.146
+06-21 20:35:50 HalfCheetah_q3_horizon10 INFO     ReturnStd    23.8362
+06-21 20:35:50 HalfCheetah_q3_horizon10 INFO     ---------  ---------
+06-21 20:35:50 HalfCheetah_q3_horizon10 DEBUG    
+06-21 20:35:50 HalfCheetah_q3_horizon10 DEBUG    : total      0.0 (100.0%)
+06-21 20:35:50 HalfCheetah_q3_horizon10 DEBUG    : other      0.0 (100.0%)
+06-21 20:35:50 HalfCheetah_q3_horizon10 DEBUG    
+06-21 20:35:50 HalfCheetah_q3_horizon10 INFO     Iteration 0
+06-21 20:35:50 HalfCheetah_q3_horizon10 INFO     Training policy...
+06-21 20:35:54 HalfCheetah_q3_horizon10 INFO     Gathering rollouts...
